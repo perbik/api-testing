@@ -8,6 +8,8 @@ The objective is to validate the booking lifecycle, including authentication, bo
 
 **API Base URL:** https://restful-booker.herokuapp.com
 
+**Target Environment:** https://restful-booker.herokuapp.com/apidoc/index.html
+
 ## Tools and Technologies
 
 - Postman
